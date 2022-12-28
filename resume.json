@@ -13,9 +13,9 @@
     "hidden": false
   },
   "profile": {
-    "name": "冯凯",
-    "email": "kai.feng@um.edu.mo",
-    "mobile": "18133678906",
+    "name": "fengkai",
+    "email": "736xxxx86@qq.com",
+    "mobile": "156xxxx7119",
     "github": "https://github.com/visiky (1.1k 粉丝)",
     "zhihu": "https://www.zhihu.com/people/visiky",
     "workExpYear": ""
@@ -23,29 +23,11 @@
   "educationList": [
     {
       "edu_time": [
-        "2020",
-        "至今"
+        "2014.09.01",
+        "2018.06.30"
       ],
-      "school": "澳门大学（THE：201-255）",
-      "major": "机械电子工程",
-      "academic_degree": "博士"
-    }    
-    {
-      "edu_time": [
-        "2017",
-        "2020"
-      ],
-      "school": "合肥工业大学（“211”，“双一流”）",
-      "major": "机械电子工程",
-      "academic_degree": "硕士"
-    }
-{
-      "edu_time": [
-        "2013",
-        "2017"
-      ],
-      "school": "安徽大学（“211”，“双一流”）",
-      "major": "机械设计制造极其自动化",
+      "school": "华南理工大学",
+      "major": "网络工程",
       "academic_degree": "本科"
     }
   ],
